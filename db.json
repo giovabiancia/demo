@@ -4,7 +4,7 @@
     { "id": 1, "playerName": "ALR", "punteggio":240 },
     { "id": 1, "playerName": "TRU", "punteggio":320 },
     { "id": 1, "playerName": "AWE", "punteggio":220 },
-    { "id": 1, "playerName": "CUD", "punteggio":20 },
+    { "id": 1, "playerName": "CUD", "punteggio":20 }
    
   ]
 }
