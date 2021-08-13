@@ -1,8 +1,10 @@
 {
   "posts": [
-    { "id": 1, "punteggio": 200 },
-    { "id": 2, "punteggio": 250 },
-    { "id": 3, "punteggio": 230 }
+    { "id": 1, "punteggio": 200, "playerName": "LUC" },
+    { "id": 2, "punteggio": 250, "playerName": "ALB" },
+    { "id": 3, "punteggio": 220, "playerName": "REN" },
+    { "id": 4, "punteggio": 130, "playerName": "COR" },
+    { "id": 5, "punteggio": 170, "playerName": "TUR" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
